@@ -1,0 +1,268 @@
+{"frames": {
+
+"puntos morada_00000.png":
+{
+	"frame": {"x":1,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00001.png":
+{
+	"frame": {"x":229,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00002.png":
+{
+	"frame": {"x":457,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00003.png":
+{
+	"frame": {"x":685,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00004.png":
+{
+	"frame": {"x":913,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00005.png":
+{
+	"frame": {"x":1,"y":901,"w":226,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":226,"h":299},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00006.png":
+{
+	"frame": {"x":229,"y":901,"w":226,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":226,"h":299},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00007.png":
+{
+	"frame": {"x":685,"y":901,"w":226,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":25,"w":226,"h":300},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00008.png":
+{
+	"frame": {"x":913,"y":901,"w":226,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":24,"w":226,"h":301},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00009.png":
+{
+	"frame": {"x":1,"y":1202,"w":226,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":24,"w":226,"h":301},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00010.png":
+{
+	"frame": {"x":457,"y":1202,"w":226,"h":302},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":23,"w":226,"h":302},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00011.png":
+{
+	"frame": {"x":685,"y":1203,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00012.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00013.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00014.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00015.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00016.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00017.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00018.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00019.png":
+{
+	"frame": {"x":913,"y":1204,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00020.png":
+{
+	"frame": {"x":229,"y":1202,"w":226,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":24,"w":226,"h":301},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00021.png":
+{
+	"frame": {"x":457,"y":901,"w":226,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":26,"w":226,"h":299},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00022.png":
+{
+	"frame": {"x":1,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00023.png":
+{
+	"frame": {"x":229,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00024.png":
+{
+	"frame": {"x":457,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00025.png":
+{
+	"frame": {"x":685,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00026.png":
+{
+	"frame": {"x":913,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00027.png":
+{
+	"frame": {"x":1,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00028.png":
+{
+	"frame": {"x":229,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00029.png":
+{
+	"frame": {"x":457,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00030.png":
+{
+	"frame": {"x":685,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"puntos morada_00031.png":
+{
+	"frame": {"x":913,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mecanica3puntos.png",
+	"format": "RGBA8888",
+	"size": {"w":1140,"h":1508},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e7e8058f702dd30a5f50182e79f3ffa0:5d924ac5a632844cad67460972db0349:3d75ceff3688cc912142f11778446ce2$"
+}
+}

@@ -1,0 +1,268 @@
+{"frames": {
+
+"mecanica paso 3_00000.png":
+{
+	"frame": {"x":1,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00001.png":
+{
+	"frame": {"x":229,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00002.png":
+{
+	"frame": {"x":457,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00003.png":
+{
+	"frame": {"x":685,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00004.png":
+{
+	"frame": {"x":913,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00005.png":
+{
+	"frame": {"x":1141,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00006.png":
+{
+	"frame": {"x":1369,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00007.png":
+{
+	"frame": {"x":1597,"y":1,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00008.png":
+{
+	"frame": {"x":1,"y":301,"w":228,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":27,"w":228,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00009.png":
+{
+	"frame": {"x":231,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00010.png":
+{
+	"frame": {"x":459,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00011.png":
+{
+	"frame": {"x":687,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00012.png":
+{
+	"frame": {"x":915,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00013.png":
+{
+	"frame": {"x":1143,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00014.png":
+{
+	"frame": {"x":1371,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00015.png":
+{
+	"frame": {"x":1599,"y":301,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00016.png":
+{
+	"frame": {"x":1,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00017.png":
+{
+	"frame": {"x":229,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00018.png":
+{
+	"frame": {"x":457,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00019.png":
+{
+	"frame": {"x":685,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00020.png":
+{
+	"frame": {"x":913,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00021.png":
+{
+	"frame": {"x":1141,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00022.png":
+{
+	"frame": {"x":1369,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00023.png":
+{
+	"frame": {"x":1597,"y":601,"w":226,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":27,"w":226,"h":298},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00024.png":
+{
+	"frame": {"x":1,"y":901,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00025.png":
+{
+	"frame": {"x":229,"y":901,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00026.png":
+{
+	"frame": {"x":457,"y":901,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00027.png":
+{
+	"frame": {"x":685,"y":901,"w":226,"h":303},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":22,"w":226,"h":303},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00028.png":
+{
+	"frame": {"x":913,"y":901,"w":226,"h":306},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":19,"w":226,"h":306},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00029.png":
+{
+	"frame": {"x":1141,"y":901,"w":226,"h":314},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":11,"w":226,"h":314},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00030.png":
+{
+	"frame": {"x":1369,"y":901,"w":226,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":6,"w":226,"h":319},
+	"sourceSize": {"w":300,"h":350}
+},
+"mecanica paso 3_00031.png":
+{
+	"frame": {"x":1597,"y":901,"w":226,"h":319},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":6,"w":226,"h":319},
+	"sourceSize": {"w":300,"h":350}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "mecanica3.png",
+	"format": "RGBA8888",
+	"size": {"w":1826,"h":1221},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:db0b536aa924991bf6ec910b85e75aae:137d9824608c9fd4b24d355085d6f77f:3efecfad770e2b22ff1b76bdb77abd02$"
+}
+}
